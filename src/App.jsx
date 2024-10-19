@@ -9,6 +9,7 @@ import Part6 from './components/Part6'
 import Part7 from './components/Part7'
 import Part10 from './components/Part10'
 import Footer from './Footer'
+import { Route, Routes } from 'react-router-dom'
 
 function App() {
   return (
