@@ -7,7 +7,7 @@ function Card() {
         <h2 className='text-white font-cormorant text-7xl'>Our Story</h2>
         <p className='text-white mt-8'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan arcu est, at lobortis nulla porta eu. Aenean vel dolor enim. Etiam aliquam mauris eros.</p>
         <button className='mt-[3em] bg-white py-4 px-9 text-black rounded-full font-semibold text-sm lex items-center gap-2'><SlArrowRight />READ MORE</button>
-        <img className='w-[200px] ml-64 -mt-12' src='https://askproject.net/chloro/wp-content/uploads/sites/23/2021/08/Asset-2_5-1024x809.png'></img>
+        <img className='w-[200px] ml-64 -mt-12' src="https://askproject.net/chloro/wp-content/uploads/sites/23/2021/08/Asset-2_5-1024x809.png"></img>
     </div>
   )
 }
