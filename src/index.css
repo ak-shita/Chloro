@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* src/index.css */
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('./assets/fonts/CormorantGaramond-Light.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Elementskit';
+    src: url('/elementskit.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
