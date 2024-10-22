@@ -1,3 +1,6 @@
+A beauty brand website using ReactJS
+
+
 <<<<<<< HEAD
 # Chloro
 =======
